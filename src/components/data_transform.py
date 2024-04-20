@@ -112,7 +112,11 @@ class DataTransformation:
                 obj=preprocessing_object
 
             )
-
+            return (
+                train_arr,
+                test_arr,
+                self.data_transformation_config.preprocessing_obj_fil_path,
+            )
         except Exception as e:
             raise CustomException(e,sys)
 

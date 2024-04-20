@@ -3,8 +3,11 @@
   <component name="Black">
     <option name="sdkName" value="$USER_HOME$/anaconda3" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/olledrive/venv" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="full_ml" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
   </component>
 </project>

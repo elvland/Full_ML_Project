@@ -1,4 +1,5 @@
 # End-to-End Machine Learning Project with AWS Cloud Server Deployment
+![Math Score](math_score.png)
 
 ## Project Description
 

@@ -43,7 +43,7 @@ To run the application locally:
 1. Install Python and required dependencies (`Flask`, `scikit-learn`, etc.).
 2. Navigate to the project directory.
 3. Run the Flask application using the command: `python app.py`.
-4. Access the application in your web browser at `http://localhost:5000`.
+4. Access the application in your web browser at `http://localhost:5000/predictdata`.
 
 ## Disclaimer
 
